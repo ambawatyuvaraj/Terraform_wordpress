@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+new_user_credentials.csv
+*.tfstate
+*.tfstate.*
+**/.terraform/*
+.terraform.rc
+terraform.rc

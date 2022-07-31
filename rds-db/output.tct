@@ -1,0 +1,7 @@
+Outputs:
+
+rds_data = "terraform-20220730172739430200000001.chkkjttdjcey.ap-south-1.rds.amazonaws.com"
+subnet_data = tolist([
+  "subnet-030137724140543d4",
+  "subnet-08b5a0900a9bca42b",
+])
